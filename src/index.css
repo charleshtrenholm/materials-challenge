@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  /*Reset's every elements apperance*/
+  background: 'blue' repeat scroll 0 0 transparent;
+  border: medium none;
+  border-radius: 5px;
+  border-spacing: 0;
+  color: #26589F;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.42rem;
+  list-style: none outside none;
+  margin: 0;
+  padding: 10px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  margin-bottom: 20px;
+}
